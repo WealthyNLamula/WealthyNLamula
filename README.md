@@ -27,7 +27,7 @@
 
 
 [instagram]: https://www.instagram.com/wealthy_n_lamula?igsh=ZG12eW9idHR1c2x1
-[linkedin]: www.linkedin.com/in/wealthynlamula-b79b8a204
+[linkedin]: www.linkedin.com/in/wealthynlamula-b79b8a204/
 [facebook]:https://www.facebook.com/profile.php?id=100006525492609
 
 <!--
