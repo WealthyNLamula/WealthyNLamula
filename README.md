@@ -16,6 +16,8 @@
 
 - [Comptia CySA+](https://www.credly.com/badges/35044b38-8ad6-4c9b-bf50-659cc2d73efb/linked_in_profile)
 - [PwC Switzerland - Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/f9H4CHchzrKQbnbmK_PwC%20Switzerland_8fcHvhm2yLnmxRXPH_1716833381848_completion_certificate.pdf)
+- [Cryptanalysis in Action](https://codered.eccouncil.org/certificate/e326af84-f5c7-4e3a-bb9e-ef95ac77bc16?logged=true)
+- [Applied Python Cryptography](https://codered.eccouncil.org/certificate/e6b86cb1-9ff8-471c-bdf0-92f5d8dca7a0?logged=true)
 
 
 <h2> 🤳 Connect with me:</h2>
