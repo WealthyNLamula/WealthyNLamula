@@ -23,10 +23,12 @@
 
 [<img align="left" alt="Wealthy N Lamula | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Wealthy N Lamula | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Wealthy N Lamula | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 
 
 [instagram]: https://www.instagram.com/wealthy_n_lamula?igsh=ZG12eW9idHR1c2x1
 [linkedin]: www.linkedin.com/in/wealthynlamula-b79b8a204
+[facebook]:https://www.facebook.com/profile.php?id=100006525492609
 
 <!--
 
