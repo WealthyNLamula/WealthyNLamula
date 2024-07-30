@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SailPoint Identity Security(Application onbourding,Request review and Certifications)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [VM SailPoint](https://cloud.skytap.com/vms/86e97258e1c1848e92fa728af9bafe46/desktops?sort=name&thumbnails=shown&view=html5&fit_to_window=1)
 - <b>Applied Python Cryptography</b>
   - [Symmetric Encryption](https://github.com/WealthyNLamula/Cryptoanalysis-in-Action/blob/main/3.%20Cryptography_in_Action.ipynb) <b><i>(Cyphers)</b></i>
 - <b>Cryptanalysis in Action</b>
