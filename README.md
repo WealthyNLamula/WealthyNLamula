@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wealthy! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Wealthy! <br/><a href="[https://github.com/joshmadakor1](https://github.com/WealthyNLamula)">Programmer</a>, <a href="[https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/wealthynlamula-b79b8a204)">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
